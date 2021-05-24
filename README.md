@@ -3,7 +3,7 @@
 
 ### I'm Ravi Raj
 
-from Gaya, Bihar and currently persuing <b>B.Tech </b>in stream of <b>Computer Science and Engineering</b> at <b>Sam Higginbottom University of Agriculture, Technology and Sciences, Allahabad(UP).</b><br>  Graduating in 2021.
+from Gaya, Bihar and currently pursuing <b>B.Tech </b>in the stream of <b>Computer Science and Engineering</b> at <b>the Sam Higginbottom University of Agriculture, Technology and Sciences, Allahabad(UP).</b><br>  Graduating in 2021.
 I love to code, explore, learn about new things and building applications & discussing new product ideas.
 Want to know more about me? [Check out my portfolio.](https://raviraj7946.github.io/website/)
 
@@ -12,9 +12,9 @@ Want to know more about me? [Check out my portfolio.](https://raviraj7946.github
 
 ### I'm Currently 
 
-- 🎯 actively looking for Full Time Job Opportunity.
+- 🎯 actively looking for Full-Time Job Opportunities.
 - 📱 working on my Final Year Project.(AVGR SOFTWARE FOR MEDIA PLAYER)
-- 📚 Growing as a competitve programmer.([Hackerrank](https://www.hackerrank.com/raviraj_7946/))
+- 📚 Growing as a competitive programmer.([Hackerrank](https://www.hackerrank.com/raviraj_7946/))
 
 
 ### 😍 Stuff I'm really good at
